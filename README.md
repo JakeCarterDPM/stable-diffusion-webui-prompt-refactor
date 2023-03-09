@@ -36,6 +36,7 @@ https://github.com/JakeCarterDPM/stable-diffusion-webui-prompt-refactor
 ## To Do  
 - Make it so the output automatically updates the *"txt2img_prompt"*
 - Support for other encapsulations such as (), []. 
+- Remove duplicates
 
 ## License  
 GNU General Public License v3.0
